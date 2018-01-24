@@ -1,0 +1,14 @@
+#
+node_modules/*
+app/video/*
+app/TAGS
+app/matlab/output/*
+*.log
+package-lock.json
+TRI_demo-win32-x64/*
+TRI_demo-darwin-x64/*
+
+TRI_demo
+.DS_Store
+
+*.swp
